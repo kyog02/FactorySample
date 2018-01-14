@@ -1,0 +1,18 @@
+﻿<Properties StartupConfiguration="{C7704B9D-4919-4DE3-B020-F5A47BBDED31}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="FactorySample/EmptyClass.cs">
+    <Files>
+      <File FileName="FactorySample/Program.cs" Line="16" Column="13" />
+      <File FileName="FactorySample/ScenarioFactory.cs" Line="17" Column="40" />
+      <File FileName="FactorySample/Scenario/ScenarioSample.cs" Line="12" Column="13" />
+      <File FileName="FactorySample/IScenario.cs" Line="8" Column="27" />
+      <File FileName="FactorySample/EmptyClass.cs" Line="4" Column="25" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.ItemProperties.FactorySample PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>

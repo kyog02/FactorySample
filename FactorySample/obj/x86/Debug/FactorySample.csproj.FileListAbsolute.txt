@@ -1,5 +1,0 @@
-/Users/Kyog02/Projects/FactorySample/FactorySample/bin/Debug/FactorySample.exe
-/Users/Kyog02/Projects/FactorySample/FactorySample/bin/Debug/FactorySample.pdb
-/Users/Kyog02/Projects/FactorySample/FactorySample/obj/x86/Debug/FactorySample.csproj.CoreCompileInputs.cache
-/Users/Kyog02/Projects/FactorySample/FactorySample/obj/x86/Debug/FactorySample.exe
-/Users/Kyog02/Projects/FactorySample/FactorySample/obj/x86/Debug/FactorySample.pdb
